@@ -191,18 +191,18 @@ $messages['ms'] = array(
 	'negref-desc' => 'Menyediakan tag untuk merundingkan lokasi sebarang tag <nowiki><ref/></nowiki> di dalam teks input untuk membetulkan beberapa kes penggunaan templat',
 );
 
-/** Dutch (Nederlands)
- * @author Siebrand
- */
-$messages['nl'] = array(
-	'negref-desc' => 'Biedt een tag om de plaats van de tag <nowiki><ref/></nowiki> te bepalen binnen invoertekst om bepaald gebruik van sjablonen te repareren',
-);
-
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
 	'negref-desc' => 'Gir en merkelapp for å fikse plasseringen av alle <nowiki><ref /></nowiki>-merkelapper inni inn-teksten for å fikse enkelte problemer ved bruk av malene.',
+);
+
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'negref-desc' => 'Biedt een tag om de plaats van de tag <nowiki><ref/></nowiki> te bepalen binnen invoertekst om bepaald gebruik van sjablonen te repareren',
 );
 
 /** Occitan (Occitan)
