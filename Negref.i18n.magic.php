@@ -20,6 +20,11 @@ $magicWords['arz'] = array(
 	'negref' => array( 0, 'نيجريف', 'negref' ),
 );
 
+/** German (Deutsch) */
+$magicWords['de'] = array(
+	'negref' => array( 0, 'verschiebe_ref' ),
+);
+
 /** Spanish (Español) */
 $magicWords['es'] = array(
 	'negref' => array( 0, 'refneg' ),
