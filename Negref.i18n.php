@@ -163,6 +163,13 @@ $messages['ja'] = array(
 	'negref-desc' => '一部のテンプレート使用に伴う問題の解決手段として、入力テキスト内の<nowiki><ref/></nowiki>タグの位置を処理するタグを提供する。',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'negref-desc' => '일부 틀을 사용하는 경우를 해결하기 위해 입력 텍스트의 내부에 <nowiki><ref/></nowiki> 태그의 위치에 대한 협상 태그를 제공',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
