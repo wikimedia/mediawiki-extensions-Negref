@@ -158,9 +158,10 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author Aotake
+ * @author Shirayuki
  */
 $messages['ja'] = array(
-	'negref-desc' => '一部のテンプレート使用に伴う問題の解決手段として、入力テキスト内の<nowiki><ref/></nowiki>タグの位置を処理するタグを提供する。',
+	'negref-desc' => '一部のテンプレート使用に伴う問題の解決手段として、入力テキスト内の<nowiki><ref/></nowiki>タグの位置を処理するタグを提供する',
 );
 
 /** Korean (한국어)
