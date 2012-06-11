@@ -25,17 +25,22 @@ $magicWords['de'] = array(
 	'negref' => array( 0, 'verschiebe_ref' ),
 );
 
-/** Spanish (Español) */
+/** Spanish (español) */
 $magicWords['es'] = array(
 	'negref' => array( 0, 'refneg' ),
 );
 
-/** Macedonian (Македонски) */
+/** Korean (한국어) */
+$magicWords['ko'] = array(
+	'negref' => array( 0, '협상참고' ),
+);
+
+/** Macedonian (македонски) */
 $magicWords['mk'] = array(
 	'negref' => array( 0, 'нагодинав' ),
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $magicWords['sr-el'] = array(
 	'negref' => array( 0, 'negref' ),
 );
