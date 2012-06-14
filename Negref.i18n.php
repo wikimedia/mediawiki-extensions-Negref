@@ -29,7 +29,7 @@ $messages['ar'] = array(
 	'negref-desc' => 'يوفر وسما للتفاوض على موقع أي وسوم <nowiki><ref/></nowiki> داخل النص المدخل لإصلاح بعض حالات استخدام القوالب',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -43,14 +43,14 @@ $messages['be-tarask'] = array(
 	'negref-desc' => 'Дадае тэг для высьвятленьня знаходжаньня любога тэгу <nowiki><ref/></nowiki> унутры ўваходнага тэксту для выпраўленьня праблемаў з выкарыстаньнем некаторых шаблёнаў',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
 	'negref-desc' => "Pourchas a ra ur valizenn a dalvez da varc'hata lec'h ne vern pe balizenn <nowiki><ref/></nowiki> tags a gaver en desktenn skrivet, ha kempenn degouezhioù implij patromoù zo",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -78,14 +78,14 @@ $messages['el'] = array(
 	'negref-desc' => 'Παρέχει μία ετικέτα για τη διαπραγμάτευση της τοποθεσίας οποιασδήποτε ετικέτας <nowiki><ref/></nowiki> που είναι παρούσα μέσα στο κείμενο εισόδου με σκοπό τη διόρθωση συγκεκριμένων περιπτώσεων χρήσης προτύπων',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Crazymadlover
  */
 $messages['es'] = array(
 	'negref-desc' => 'Provee una etiqueta para negociar la ubicación de cualquier etiqueta <nowiki><ref/></nowiki> dentro de textos ingresados para reparar alguna plantillas usando mayúsculas',
 );
 
-/** French (Français)
+/** French (français)
  * @author Verdy p
  */
 $messages['fr'] = array(
@@ -128,14 +128,14 @@ $messages['hsb'] = array(
 	'negref-desc' => 'Skići tafličku, zo by so městno tafličkow <nowiki><ref/></nowiki> znutřka zapodateho teksta zwěsćiło, zo bychu so někotre pady wužiwanja předłohow porjedźili',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
 	'negref-desc' => 'Tag bármely <nowiki><ref/></nowiki> tag helyének egyeztetésére a bevitt szövegben néhány sablonhasználati eset javítására',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -149,7 +149,7 @@ $messages['id'] = array(
 	'negref-desc' => 'Menyediakan sebuah tag untuk menegosiasikan lokasi tag <nowiki><ref/></nowiki> pada sebuah teks masukan untuk membetulkan beberapa penggunaan templat',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Darth Kule
  */
 $messages['it'] = array(
@@ -185,7 +185,7 @@ $messages['lb'] = array(
 	'negref-desc' => "Liwwert en Tag deen et erlaabt fir d'Plaz vun engem <nowiki><ref/></nowiki> Tag bannent engem Text, dee vu Benotzer agi gëtt, festzeleeën, dëst fir datt verschidde Schabloune korrekt fonctionnéieren.",
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -213,14 +213,14 @@ $messages['nl'] = array(
 	'negref-desc' => 'Biedt een tag om de plaats van de tag <nowiki><ref/></nowiki> te bepalen binnen invoertekst om bepaald gebruik van sjablonen te repareren',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
 	'negref-desc' => "Provesís una balisa que permet de negociar l’emplaçament d’una balisa quina que siá <nowiki><ref/></nowiki> presenta dins lo tèxte picat, pr'amor de reglar d'unes cases d’utilizacions dels modèls.",
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -234,28 +234,28 @@ $messages['pms'] = array(
 	'negref-desc' => "A dà un tag për negossié la locassion ëd minca tag <nowiki><ref/></nowiki> an drinta ij test d'input për arzòlve cheich cas d'utilisassion djë stamp",
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Waldir
  */
 $messages['pt'] = array(
 	'negref-desc' => 'Fornece uma etiqueta para negociar a localização de quaisquer etiquetas <nowiki><ref/></nowiki> dentro do texto para corrigir alguns casos de uso de predefinições',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
 	'negref-desc' => 'Provê uma marca para negociar a localização de quaisquer marcas <nowiki><ref/></nowiki> dentro do texto para corrigir alguns casos de uso de predefinições',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
 	'negref-desc' => "Ause 'nu tag pe negozià 'a locazzione de ogne tag <nowiki><ref/></nowiki> jndr'à 'u teste de input pe fissà certe template ca usane stu case",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Ytsukeng Fyvaprol
  * @author Александр Сигачёв
  */
@@ -263,14 +263,14 @@ $messages['ru'] = array(
 	'negref-desc' => 'Предоставляет тег для установления местоположения любого тега <nowiki><ref/></nowiki> внутри поля ввода для устранения некоторых случаев использования шаблонов',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
 	'negref-desc' => 'Poskytuje značku na vyjednanie umiestnenia akýchkoľvek značiek <nowiki><ref/></nowiki> v zadávanom texte na opravu niektorých prípadov použitia šablón.',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -278,7 +278,7 @@ $messages['sr-ec'] = array(
 	'negref-desc' => 'Пружа ознаку за подешавање места сваке ознаке <nowiki><ref/></nowiki> унутар унетог текста за исправку одређених случајева употребе шаблона',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'negref-desc' => 'Omogućava tag za podešavanje mesta svakog pojedinačnog <nowiki><ref/></nowiki> taga unutar unešenog teksta, da bi se popravili neki slučajevi upotrebe šablona',
 );
@@ -297,7 +297,7 @@ $messages['tr'] = array(
 	'negref-desc' => 'Bazı şablon kullanım durumlarını düzeltmek için girilen metnin içinde bulunan <nowiki><ref/></nowiki> etiketlerinin konumunu ayarlayacak bir etiket sağlar',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Ytsukeng Fyvaprol
  */
 $messages['uk'] = array(
