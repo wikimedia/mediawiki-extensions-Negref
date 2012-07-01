@@ -36,7 +36,7 @@ $messages['ast'] = array(
 	'negref-desc' => "Ufre una etiqueta pa negociar la llocalización de cualesquier etiqueta <nowiki><ref/></nowiki> dientro d'un testu d'entrada pa iguar dellos casos nel usu de plantíes",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -64,7 +64,7 @@ $messages['de'] = array(
 	'negref-desc' => 'Stellt einen Tag bereit mit dem die Position jeglicher <nowiki><ref/></nowiki>-Tags innerhalb einer Texteingabe verändert werden kann, um damit Probleme beim Verwenden von Vorlagen zu beheben.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -92,7 +92,7 @@ $messages['fr'] = array(
 	'negref-desc' => 'Fournit une balise permettant de négocier l’emplacement de n’importe quelle balise <nowiki><ref/></nowiki> présente dans le texte saisi, afin de régler certains cas d’utilisations des modèles.',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -121,7 +121,7 @@ $messages['hil'] = array(
 	'negref-desc' => 'Gahatag sang tag para maka negosyar ang ginhalinan sang bisan ano <nowiki><ref/></nowiki> nga mga tag sa sulod sang input teksto para makayo sang iban nga templeyt use cases',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
