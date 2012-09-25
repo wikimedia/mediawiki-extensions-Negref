@@ -40,7 +40,7 @@ $magicWords['mk'] = array(
 	'negref' => array( 0, 'нагодинав' ),
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $magicWords['sr-el'] = array(
 	'negref' => array( 0, 'negref' ),
 );
