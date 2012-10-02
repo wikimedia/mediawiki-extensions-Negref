@@ -36,7 +36,7 @@ $messages['ast'] = array(
 	'negref-desc' => "Ufre una etiqueta pa negociar la llocalización de cualesquier etiqueta <nowiki><ref/></nowiki> dientro d'un testu d'entrada pa iguar dellos casos nel usu de plantíes",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -199,7 +199,7 @@ $messages['ms'] = array(
 	'negref-desc' => 'Menyediakan tag untuk merundingkan lokasi sebarang tag <nowiki><ref/></nowiki> di dalam teks input untuk membetulkan beberapa kes penggunaan templat',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -270,7 +270,7 @@ $messages['sk'] = array(
 	'negref-desc' => 'Poskytuje značku na vyjednanie umiestnenia akýchkoľvek značiek <nowiki><ref/></nowiki> v zadávanom texte na opravu niektorých prípadov použitia šablón.',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -278,7 +278,7 @@ $messages['sr-ec'] = array(
 	'negref-desc' => 'Пружа ознаку за подешавање места сваке ознаке <nowiki><ref/></nowiki> унутар унетог текста за исправку одређених случајева употребе шаблона',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'negref-desc' => 'Omogućava tag za podešavanje mesta svakog pojedinačnog <nowiki><ref/></nowiki> taga unutar unešenog teksta, da bi se popravili neki slučajevi upotrebe šablona',
 );
