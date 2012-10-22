@@ -278,7 +278,8 @@ $messages['sr-ec'] = array(
 	'negref-desc' => 'Пружа ознаку за подешавање места сваке ознаке <nowiki><ref/></nowiki> унутар унетог текста за исправку одређених случајева употребе шаблона',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'negref-desc' => 'Omogućava tag za podešavanje mesta svakog pojedinačnog <nowiki><ref/></nowiki> taga unutar unešenog teksta, da bi se popravili neki slučajevi upotrebe šablona',
 );
@@ -303,4 +304,3 @@ $messages['tr'] = array(
 $messages['uk'] = array(
 	'negref-desc' => 'Надає тег для встановлення місцезнаходження будь-якого тега <nowiki><ref/></nowiki> всередині поля введення для усунення деяких випадків використання шаблонів',
 );
-
