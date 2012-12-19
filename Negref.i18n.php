@@ -17,9 +17,10 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Fryed-peach
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'negref-desc' => '{{desc}}',
+	'negref-desc' => '{{desc|name=Negref|url=http://www.mediawiki.org/wiki/Extension:Negref}}',
 );
 
 /** Arabic (العربية)
