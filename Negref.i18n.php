@@ -200,7 +200,7 @@ $messages['ms'] = array(
 	'negref-desc' => 'Menyediakan tag untuk merundingkan lokasi sebarang tag <nowiki><ref/></nowiki> di dalam teks input untuk membetulkan beberapa kes penggunaan templat',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
