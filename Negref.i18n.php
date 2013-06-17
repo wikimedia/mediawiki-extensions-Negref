@@ -305,3 +305,10 @@ $messages['tr'] = array(
 $messages['uk'] = array(
 	'negref-desc' => 'Надає тег для встановлення місцезнаходження будь-якого тега <nowiki><ref/></nowiki> всередині поля введення для усунення деяких випадків використання шаблонів',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'negref-desc' => '提供標記以標示輸入文本中的任何<nowiki><ref/></nowiki>標記以用作修復模板的使用',
+);
