@@ -30,6 +30,11 @@ $magicWords['es'] = array(
 	'negref' => array( 0, 'refneg' ),
 );
 
+/** French (français) */
+$magicWords['fr'] = array(
+	'negref' => array( 0, 'refnég' ),
+);
+
 /** Korean (한국어) */
 $magicWords['ko'] = array(
 	'negref' => array( 0, '협상참고' ),
