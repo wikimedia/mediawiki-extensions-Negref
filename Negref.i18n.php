@@ -181,9 +181,10 @@ $messages['ksh'] = array(
 
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
+ * @author Soued031
  */
 $messages['lb'] = array(
-	'negref-desc' => "Liwwert en Tag deen et erlaabt fir d'Plaz vun engem <nowiki><ref/></nowiki> Tag bannent engem Text, dee vu Benotzer agi gëtt, festzeleeën, dëst fir datt verschidde Schabloune korrekt fonctionnéieren.",
+	'negref-desc' => "Liwwert en Dag deen et erlaabt fir d'Plaz vun engem <nowiki><ref/></nowiki> Tag bannent engem Text, dee vu Benotzer agi gëtt, festzeleeën, dëst fir datt verschidde Schabloune korrekt funktionéieren.",
 );
 
 /** Macedonian (македонски)
