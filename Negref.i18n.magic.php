@@ -17,7 +17,7 @@ $magicWords['ar'] = array(
 
 /** Egyptian Spoken Arabic (مصرى) */
 $magicWords['arz'] = array(
-	'negref' => array( 0, 'نيجريف', 'negref' ),
+	'negref' => array( 0, 'نيجريف' ),
 );
 
 /** German (Deutsch) */
