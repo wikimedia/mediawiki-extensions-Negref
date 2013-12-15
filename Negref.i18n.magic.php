@@ -25,6 +25,11 @@ $magicWords['de'] = array(
 	'negref' => array( 0, 'verschiebe_ref' ),
 );
 
+/** Zazaki (Zazaki) */
+$magicWords['diq'] = array(
+	'negref' => array( 0, 'refvec' ),
+);
+
 /** Spanish (español) */
 $magicWords['es'] = array(
 	'negref' => array( 0, 'refneg' ),
