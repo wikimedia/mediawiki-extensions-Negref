@@ -86,6 +86,13 @@ $messages['es'] = array(
 	'negref-desc' => 'Provee una etiqueta para negociar la ubicación de cualquier etiqueta <nowiki><ref/></nowiki> dentro de textos ingresados para reparar alguna plantillas usando mayúsculas',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'negref-desc' => 'ارائهٔ یک برچسب برای مذاکرهٔ محل هر <nowiki><ref/></nowiki> برچسب‌ها درون متن ورودی برای نصب برخی الگوها که در پرونده استفاده می‌شود',
+);
+
 /** French (français)
  * @author Verdy p
  */
