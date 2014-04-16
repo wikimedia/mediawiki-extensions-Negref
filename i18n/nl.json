@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Siebrand"
-        ]
-    },
-    "negref-desc": "Biedt een tag om de plaats van de tag <nowiki><ref/></nowiki> te bepalen binnen invoertekst om bepaald gebruik van sjablonen te repareren"
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"negref-desc": "Biedt een tag om de plaats van de tag <nowiki><ref/></nowiki> te bepalen binnen invoertekst om bepaald gebruik van sjablonen te repareren"
 }

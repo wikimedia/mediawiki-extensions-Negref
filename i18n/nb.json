@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Nghtwlkr"
-        ]
-    },
-    "negref-desc": "Gir en merkelapp for å fikse plasseringen av alle <nowiki><ref /></nowiki>-merkelapper inni inn-teksten for å fikse enkelte problemer ved bruk av malene."
+	"@metadata": {
+		"authors": [
+			"Nghtwlkr"
+		]
+	},
+	"negref-desc": "Gir en merkelapp for å fikse plasseringen av alle <nowiki><ref /></nowiki>-merkelapper inni inn-teksten for å fikse enkelte problemer ved bruk av malene."
 }
