@@ -17,6 +17,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	'author' => "[http://danf.ca/mw/ Daniel Friesen]",
 	'description-msg' => 'negref-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Negref',
+	'license-name' => 'GPL-2.0+',
 );
 
 $dir = dirname( __FILE__ ) . '/';
