@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Fryed-peach",
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"negref-desc": "{{desc|name=Negref|url=http://www.mediawiki.org/wiki/Extension:Negref}}"
+	"negref-desc": "{{desc|name=Negref|url=https://www.mediawiki.org/wiki/Extension:Negref}}"
 }
