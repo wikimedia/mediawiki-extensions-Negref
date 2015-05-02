@@ -20,6 +20,11 @@ $magicWords['arz'] = array(
 	'negref' => array( 0, 'نيجريف' ),
 );
 
+/** Chuvash (Чӑвашла) */
+$magicWords['cv'] = array(
+	'negref' => array( 0, 'negref' ),
+);
+
 /** German (Deutsch) */
 $magicWords['de'] = array(
 	'negref' => array( 0, 'verschiebe_ref' ),
