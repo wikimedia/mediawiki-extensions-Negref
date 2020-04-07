@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"negref-desc": "Omogućava tag za podešavanje mesta svakog pojedinačnog <nowiki><ref/></nowiki> taga unutar unešenog teksta, da bi se popravili neki slučajevi upotrebe šablona"
 }

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ytsukeng Fyvaprol",
-			"Piramidion"
+			"Piramidion",
+			"Ytsukeng Fyvaprol"
 		]
 	},
 	"negref-desc": "Надає тег для встановлення розташування будь-якого тегу <nowiki><ref/></nowiki> всередині поля введення для усунення деяких випадків використання шаблонів"
