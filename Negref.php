@@ -34,7 +34,7 @@ function efNegrefHook( $parser, $input, $replaceData='', $replaceRef='', $patter
 	$data = $input;
 	$ref = '';
 
-	$keys = array_keys( $parser->mStripState->general->getArray() );
+	$keys = array_keys( $parser->getStripState()->general->getArray() );
 	foreach ( $keys as $key ) {
 		if ( preg_match( '/^' . preg_quote( $parser->uniqPrefix(), '/' ) . '-(ref)-.*$/', $key ) ) {
 			if ( substr_count( $input, $key ) > 0 ) {
