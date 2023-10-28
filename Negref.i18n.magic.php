@@ -20,11 +20,6 @@ $magicWords['arz'] = array(
 	'negref' => array( 0, 'نيجريف' ),
 );
 
-/** Chuvash (Чӑвашла) */
-$magicWords['cv'] = array(
-	'negref' => array( 0, 'negref' ),
-);
-
 /** German (Deutsch) */
 $magicWords['de'] = array(
 	'negref' => array( 0, 'verschiebe_ref' ),
@@ -53,9 +48,4 @@ $magicWords['ko'] = array(
 /** Macedonian (македонски) */
 $magicWords['mk'] = array(
 	'negref' => array( 0, 'нагодинав' ),
-);
-
-/** Serbian (Latin script) (srpski (latinica)‎) */
-$magicWords['sr-el'] = array(
-	'negref' => array( 0, 'negref' ),
 );
