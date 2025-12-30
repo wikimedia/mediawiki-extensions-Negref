@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bennylin"
+			"Bennylin",
+			"Penyuwangi"
 		]
 	},
-	"negref-desc": "Menyediakan sebuah tag untuk menegosiasikan lokasi tag <nowiki><ref/></nowiki> pada sebuah teks masukan untuk membetulkan beberapa penggunaan templat"
+	"negref-desc": "Menyediakan sebuah tanda untuk merunding lokasi tanda <nowiki><ref/></nowiki> pada sebuah teks masukan untuk membetulkan beberapa penggunaan templat"
 }
